@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "cuspbeam: a local model of the gravitational-wave beam of a cosmic-string cusp"
+authors:
+  - family-names: "[Pande]"
+    given-names: "[Siddharaj]"
+version: 0.1.0
+date-released: "[2026-10-8]"
+repository-code: "[repository URL]"
+license: MIT
+abstract: "Research code (not checked by specialists): a leading-order Airy model of the cusp beam, a closed-form next-order correction to the on-axis amplitude, and a detector-weighted effective solid angle. See README for validation and limits."

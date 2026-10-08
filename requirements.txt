@@ -1,0 +1,3 @@
+numpy
+scipy
+# optional, for the tests: pytest
