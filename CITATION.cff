@@ -6,6 +6,6 @@ authors:
     given-names: "[Siddharaj]"
 version: 0.1.0
 date-released: "[2026-10-8]"
-repository-code: "[repository URL]"
+repository-code: "[https://github.com/siddharaj93/cuspbeam]"
 license: MIT
 abstract: "Research code (not checked by specialists): a leading-order Airy model of the cusp beam, a closed-form next-order correction to the on-axis amplitude, and a detector-weighted effective solid angle. See README for validation and limits."
